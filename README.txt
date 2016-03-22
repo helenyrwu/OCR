@@ -10,9 +10,9 @@ BitmapDump.java serves to process the photos of the images before they are ready
 
 NeuralNets.java implements the backpropagation training algorithm given an input set and its expected output, giving a text file with weights. After trained, NeuralNets.java can run the neural network on an unknown set and return the 6-digit binary number of the character that the input most resembles.
 
-More detailed overview:
+More detailed overview and documentation:
 
-This program is able to train n eural networks
+This program is able to train neural networks
  * with three layers (more on the structure in the NeuralNets class top comment below). 
  * I trained the network to return a 6-digit binary number from 1 to 52 depending 
  * on which character was input. The input for each test case consists of an array 
